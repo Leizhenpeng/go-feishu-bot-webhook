@@ -13,5 +13,6 @@
 
 ## 项目资料
 
+- [飞书消息卡片搭建平台](https://open.feishu.cn/tool/cardbuilder?from=howtoguide)
 - [飞书文档](https://open.feishu.cn/document/ukTMukTMukTM/ucTM5YjL3ETO24yNxkjN?lang=zh-CN)
 - [feishu-go-bot](https://github.com/CatchZeng/feishu)
